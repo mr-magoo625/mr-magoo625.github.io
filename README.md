@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1>IT IS WORKING!</h1>
 <hr>
 <br>
