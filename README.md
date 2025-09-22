@@ -8,4 +8,4 @@ to get to the News Hub</p>
 <br>
 <p>Click on this link to get to the<a href="Image_Gallery/All_pics.html" target="_self"> Image gallery</a></p>
 <img src="Root_Directory_Folder/Images/mr-magoo.jpg" alt="Mr. Magoo!"/>
-<img src="Spider-Man_Sunset.webp"/>
+<img src="./Root_Directory_Foler/Images/Spider-Man_Sunset.webp"/>
