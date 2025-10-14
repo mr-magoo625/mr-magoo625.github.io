@@ -9,6 +9,6 @@ to get to the News Hub</p>
 <p>Click on this <a href="Superhero_Table/Table_Assignment.html" target="_self">link</a> to get to the Superhero Comparison Table</p>
 <p>Wanna do math for no reason? Click <a href="Math_Page/Fake_Math_Test.html" target="_self">here!</a></p>
 <p>This website is supporting a YouTube content creator! Click on the following link to see a page related to his videos!<a href="MC_Page/Vid_List.html" target="_self">See Dark Swipez!</a></p>
+<p>Wanna see the colors I'm going to try to put on the website? Look here to see a preview and exactly which ones I'm using! <a href="Color_Scheme_Assignment/Color-table.html" target="_self">Color Scheme</a></p>
 <img src="Root_Directory_Folder/Images/mr-magoo.jpg" alt="Mr. Magoo!"/>
 <img src="Root_Directory_Folder/Images/Spider-Man_Sunset.webp" height="405"/>
-<p>Wanna see the colors I'm going to try to put on the website? Look here to see a preview and exactly which ones I'm using!<a href="Color_Scheme_Assignment/Color-table.html" target="_self">Color Scheme</a></p>
