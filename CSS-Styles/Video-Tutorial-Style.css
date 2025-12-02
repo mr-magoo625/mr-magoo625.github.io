@@ -11,5 +11,16 @@
     img{
         border:2px solid black;
         }
+    h2{
+        color:rgb(240,200,160);
+        }
+    h2.OMG{
+        color:rgb(255,20,10);
+        font-weight:bold;
+        }
+    p.caption{
+        color:rgba(150,150,150,0.8);
+        font-size:smaller;
+        }
 </style>
     /*asdf;lakdsfj;aldskfjwhere do i save this?!*/
