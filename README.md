@@ -14,6 +14,7 @@ to get to the News Hub</p>
 <p>Ever had a busy day? Me too! I made a table to show one of my most recent crazy days! This is the link to it: <a href="/Schedule/Schedule-Table.html">Crazy Day Schedule</a></p>
 <p>Yo, now this... This right here... Mhm. That Saz&oacute;n to the max aqu&iacute; mismo. Meet the Presionistas <a href="/Team-Page/Team-Page-Assignment.html">HERE</a></p>
 <p>If you like bowling, minigolf, or cornhole, then look at this page for three scorecards that I designed using html and css. <a href="/Scorecards/File-Selector.html">This is the link</a></p>
+<p>Wanna know how to embed videos into your own website? Check this <a href="/Video-Tutorial/Video-Tutorial.html">link</a> out!</p>
 <a href="/Restaurant/Menu.html" target="_self"><img src="Root_Directory_Folder/Images/Restaurant.jpeg"></a>
 <img src="Root_Directory_Folder/Images/mr-magoo.jpg" alt="Mr. Magoo!"/>
 <img src="Root_Directory_Folder/Images/Spider-Man_Sunset.webp" height="405"/>
