@@ -1,0 +1,70 @@
+<style>
+.ped{
+    asdf
+    }
+            div{
+                display: inline-block;
+                }
+            div.butterfly{
+                border-radius:100px 0px;
+                background-image:url(../Imitation/starters/butterfly.jpg);
+                -webkit-filter:invert(100%) opacity(65%);
+                filter:invert(100%) opacity(65%);
+                background-repeat: no-repeat;
+                width: 400px;
+                height:243px;
+            }
+            div.present{
+                background-image:url(../Imitation/starters/theater_stage.jpg);
+                background-repeat: no-repeat;
+                width: 400px;
+                height:352px;
+            }
+            .drop{
+                width:400px;
+                height:352px;
+                -webkit-backdrop-filter:blur(4px);
+                backdrop-filter:blur(4px);
+                }
+            .p{
+                color:#FFFFFF;
+                font-family:Arial,mono;
+                font-size:3.25em;
+                text-shadow:4px 4px 4px #000000;
+                padding:98px 75px;
+            }
+            div.peng{
+                margin:10px;
+                background-image:url(../Imitation/starters/penguins.jpg);
+                background-repeat:no-repeat;
+                width:450px;
+                height:300px;
+                border-radius:50%;
+                border:1px solid black;
+                -webkit-filter:sepia(50%);
+                filter:sepia(50%);
+                }
+            div.dino{
+                background-image:url(../Imitation/starters/dinosaur.png);
+                background-repeat: no-repeat;
+                -webkit-filter:drop-shadow(15px -1px 5px #000000) hue-rotate(90deg);
+                filter:drop-shadow(15px -1px 5px #000000) hue-rotate(90deg);
+                width: 455px;
+                height:482px;
+            }
+            div.seagull{
+                width:560px;
+                height:396px;
+                background-image: linear-gradient(to bottom right, #8E8EFF, #FAFAFF);
+            }
+            div.fb{
+                width:500px;
+                height:230px;
+                border:48px solid #000;
+                border-image:url(../Imitation/starters/tic-tac-toe.png) 48 round;
+                }
+            img.fb{
+                -webkit-filter:grayscale(100%);
+                filter:grayscale(100%);
+                }
+        </style>
