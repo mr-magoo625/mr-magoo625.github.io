@@ -16,6 +16,7 @@
         /* Color when the first paragraph is hovered */
     }
     div{
+        display:inline-block;
         height: 175px;
         width: 175px;
         background-color: rgb(20,200,40);
