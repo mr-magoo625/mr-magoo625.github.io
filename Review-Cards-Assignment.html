@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>Review Cards</title>
+    <!--CSS File-->
+        <link rel="stylesheet" href="../CSS-Styles/style.css"/>
+    <style>
+    p{
+        display: inline-block;
+        }
+    .target-text{
+        color: rgb(20,200,40);
+        /* Default color */
+        transition: color 0.3s;
+    }
+
+    .hover-trigger:hover + .target-text{
+        color: black;
+        /* Color when the first paragraph is hovered */
+    }
+    div{
+        height: 175px;
+        width: 175px;
+        background-color: rgb(20,200,40);
+        margin: 20px;
+        padding:5px;
+        border:2px solid black;
+    }
+    @keyframes Title {
+        0% {
+            color: white;
+            font-size: 1em;
+        }
+        75% {
+            font-size: 3em;
+        }
+        100% {
+            color: rgb(20,200,40);
+        }
+    }
+    div p.Title {
+        margin:0px;
+        padding:0px;
+        font-size: 3em;
+        font-weight: bold;
+        animation-name: Title;
+        animation-duration: 2s;
+        animation-iteration-count: 3;
+        animation-direction: alternate;
+        animation-fill-mode: forwards;
+    }
+        div.Title{    
+            width:100%;
+        height: 75px;
+        border: 0px solid white;
+        background-color: white;
+            }
+}
+</style>
+</head>
+<body>
+<div class="Title">
+    <p class="Title">
+        Review Cards!
+    </p>
+</div>
+    <hr>
+<div class="q1">
+    <p>Question: What sound does an explosion make?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q1">
+BOOM
+</p>
+</div>
+<div class="q2">
+    <p>Question: What color is the sky?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q2">
+Blue!
+</p>
+</div>
+<div class="q3">
+    <p>Question: What do you call the answer to a subtraction problem?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q3">
+The difference
+</p>
+</div>
+<div class="q4">
+    <p>Question: Who was the first president of the United States of America?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q4">
+George Washington
+</p>
+</div>
+<div class="q5">
+    <p>Question: What is the Game of the Year 2025?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q5">
+Astro Bot
+</p>
+</div>
+<div class="q6">
+    <p>Question: Who said "Do or do not. There is no try."?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q6">
+Yoda
+</p>
+</div>
+<div class="q7">
+    <p>Question: What is the name of the super fast hedgehog from SEGA?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q7">
+Sonic
+</p>
+</div>
+<div class="q8">
+    <p>Question: Which Marvel Superhero can climb walls?</p>
+<p class="hover-trigger">
+Answer:
+</p>
+<p class="target-text" id="q8">
+Spider-Man
+</p>
+</div>
